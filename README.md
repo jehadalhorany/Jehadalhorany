@@ -12,7 +12,7 @@
 </h5>
 <br>
 <p align="center" >
-  <>Hi, I'm jehad ALhorane, Full-Stack Web Development from Jordan</>
+  Hi, I'm jehad ALhorane, Full-Stack Web Development from Jordan
    <br>
   
   <br>
